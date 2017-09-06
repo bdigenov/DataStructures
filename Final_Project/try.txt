@@ -1,0 +1,20 @@
+custom
+ignore.txt
+jokebot.cpp
+joke_map.h
+joke.txt
+Makefile
+mybot.py
+README.md
+redditbot.cpp
+run_python.sh
+standard
+standardResult.txt
+test
+testagainh.txt
+testagain.txt
+test.txt
+time.txt
+try.txt
+waybetterbot.py
+0.001u 0.000s 0:00.04 0.0%	0+0k 112+8io 3pf+0w

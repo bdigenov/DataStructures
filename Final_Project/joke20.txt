@@ -1,0 +1,20 @@
+paris
+london
+rome
+italy
+germany
+budapest
+bath
+dublin
+zurich
+new york
+los angeles
+san francisco
+washington
+chicago
+seattle
+frankfurt
+tokyo
+berlin
+prague
+amsterdam
